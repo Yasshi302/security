@@ -1,0 +1,3 @@
+cve_triage/output/
+cve_triage/logs/
+__pycache__/

@@ -1,0 +1,26 @@
+{
+  "_説明": "対象範囲と判定閾値の設定。コマンドライン引数で上書き可能。詳細は README.md を参照。'_'始まりのキーはメモ。",
+
+  "date_type": "published",
+  "end_days_ago": 2,
+  "window_days": 1,
+
+  "_cpe_match例": ["cpe:2.3:a:apache:http_server", "cpe:2.3:o:microsoft:windows_11"],
+  "cpe_match": [],
+  "_keywords例": ["wordpress", "openssl"],
+  "keywords": [],
+
+  "min_cvss": null,
+  "kev_only": false,
+  "min_judgement": "経過観察",
+
+  "epss_source": "auto",
+
+  "thresholds": {
+    "cvss_high": 7.0,
+    "cvss_critical": 9.0,
+    "epss_immediate": 0.5,
+    "epss_high": 0.1,
+    "epss_low": 0.03
+  }
+}
